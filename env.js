@@ -9,7 +9,7 @@ window.settings = {
   theme: {
     sidebar: 'light',
     header: 'dark',
-    color: 'default'
+    color: 'darkblue'
   },
   // 背景
   background_url: 'https://api.vvhan.com/api/acgimg',
