@@ -8,7 +8,7 @@ window.settings = {
   // 主题
   theme: {
     sidebar: 'light',
-    header: 'dark',
+    header: 'light',
     color: 'darkblue'
   },
   // 背景
