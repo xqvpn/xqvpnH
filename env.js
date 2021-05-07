@@ -12,7 +12,7 @@ window.settings = {
     color: 'darkblue'
   },
   // 背景
-  background_url: 'https://api.vvhan.com/api/acgimg',
+  background_url: 'https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images',
   // crisp
   crisp_id: ''
 }
